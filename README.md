@@ -1,7 +1,7 @@
 To start work with filter u have be able to use:
 
 main.m - to fast check configuration;
-User_main.m - to check non stupable array of possible configuration with table export to Excel;
+User_main.m - to check non stapable array of possible configuration with table export to Excel;
 SuperVisor_main.m to fust search need configuration by changing it fast as possible and checks by score_SQ stop while change less than 1e-3.
 
 The configuration to set be ablied by base_data_saved.m or same as an User_main.m exercise
