@@ -12,4 +12,4 @@ https://www.mathworks.com/matlabcentral/fileexchange/52848-matlab-support-for-mi
 ,eather by installing through msys64
 https://packages.msys2.org/packages/mingw-w64-x86_64-gcc-fortran
 
-If u non had MinGW64 Compilier, set in base_data_saved.m and User_main.m base_speech_measuring= "HASQI" instead "Duo" 
+If had'n the MinGW64 Compilier, set in base_data_saved.m and User_main.m base_speech_measuring= "HAAQI" instead "Duo" to set Score_SQ getging only from HAAQI mesurements
